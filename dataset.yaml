@@ -1,0 +1,4 @@
+train: C:\Users\Jose\Desktop\satelitesbootcamp\data\train\
+val: C:\Users\Jose\Desktop\satelitesbootcamp\data\val\
+nc: 1
+names: ["satelite"]
